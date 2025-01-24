@@ -100,4 +100,28 @@ h2{
     position:absolute;
     margin-left: -120px;
 }
-
+#dark-blue{
+    color: #FFFFFF;
+    background-color: #191E3B;
+    width:1100px;
+    height: 70px;
+    position:relative;
+    margin-left: 150px;
+    border-radius: 12px;
+}
+#for-message{
+    position: absolute;
+    margin-left: 20px;
+    margin-top:20px;
+}
+#btn-message{
+    position:absolute;
+    margin-left: 950px;
+    margin-top:30px;
+    border-radius: 10px;
+    color:#ECF4FD;
+    background-color: #191E3B;
+}
+#message-icon{
+    margin-top: 20px;
+}
