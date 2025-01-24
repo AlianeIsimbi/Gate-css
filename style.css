@@ -218,3 +218,17 @@ h3{
     gap:10px;
     margin-top: 50px;
 }
+#girl{
+    margin-left: 150px;
+}
+#box-over-girl{
+    position:absolute;
+    background-color: #FFFFFF;
+    margin-top: -450px;
+    margin-left: 20px;
+    padding-right: 10px;
+    border-radius: 12px;
+}
+#new-h2{
+    color:#191E3B;
+}
