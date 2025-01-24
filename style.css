@@ -215,7 +215,7 @@ h3{
 #key{
     display: flex;
     margin-left: 150px;
-    gap:10px;
+    gap:20px;
     margin-top: 50px;
 }
 #girl{
@@ -226,18 +226,45 @@ h3{
     background-color: #FFFFFF;
     margin-top: -450px;
     margin-left: 20px;
-    padding-right: 10px;
+    padding-right: -40px;
     border-radius: 12px;
+    padding-bottom: 50px;
 }
 #new-h2{
     color:#191E3B;
+    margin-left: 40px;
+}
+#para{
+    margin-left: 40px;
+}
+#unique-btn{
+    background-color: #191E3B;
+    color:white;
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 40px;
 }
 #new-style{
     margin-left:200px;
+
 }
 h6{
     margin-left:200px;
-    font-size: x-large;
+    font-size: large;
+    color:#191E3B;
+}
+h5{
+    color:#30354F;
+}
+h4{
+    color:#191E3B;
+}
+#par-p{
+    color:#191E3B;
+}
+p{
+    color:#494D64;
 }
 #logo{
     margin-left:150px;
@@ -259,4 +286,38 @@ h6{
 #copyright{
     font-size: small;
     margin-left:200px;
+    color:#191E3B;
+}
+#arrow{
+    position: absolute;
+    left: 1200px;
+}
+#rate{
+    background-color: #227950;
+    color: white;
+    border-radius: 5px;
+}
+#sub{
+    margin-left: 5px;
+    color:#191E3B;
+}
+#unique{
+    margin-left: 2px;
+    margin-top:-2px;
+}
+#main-head{
+    font-size: large;
+    font-weight: bold;
+    color:#191E3B;
+}
+#key-color{
+    color:#191E3B;
+    font-weight: bold;
+    position:relative;
+    margin-left:-90px;
+}
+#key-icon{
+    position:relative;
+    margin-bottom: 50px;
+    margin-left: 50px;
 }
