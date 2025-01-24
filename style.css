@@ -232,3 +232,31 @@ h3{
 #new-h2{
     color:#191E3B;
 }
+#new-style{
+    margin-left:200px;
+}
+h6{
+    margin-left:200px;
+    font-size: x-large;
+}
+#logo{
+    margin-left:150px;
+    margin-top: 20px;
+}
+#foot{
+    margin-left: 200px;
+    display: flex;
+    gap: 200px;
+    margin-top: 50px;
+}
+#bold{
+    font-weight: bolder;
+}
+#blue{
+    color:#1693EB;
+    font-size: small;
+}
+#copyright{
+    font-size: small;
+    margin-left:200px;
+}
