@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    gap: 20%;
+    position: relative;
+    margin-left: 200px;
+    background-color: #FFFFFF;
+}
+h1{
+    color:#0067DB;
+    font-size:xx-large;
+}
+#navigation-bar{
+    display:flex;
+    position: relative;
+    margin-top: 30px;
+    margin-left: 100px;
+    gap: 23px;
+}
+#darker{
+    color:#191E3B;
+    font-weight:bold;
+}
+#download{
+    border-radius: 10px;
+    border-color: #ECF4FD;
+    color:#191E3B;
+    font-weight: bold;
+}
