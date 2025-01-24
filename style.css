@@ -187,3 +187,34 @@ h3{
     margin-left: 20px;
     font-weight: bolder;
 }
+#for-sale{
+    display:flex;
+    gap: 10px;
+    margin-left:150px;
+    margin-top: 10px;
+}
+#just-words{
+    color:#191E3B;
+    position: relative;
+    margin-left:200px;
+}
+#another-part{
+    display:flex;
+    margin-left: 150px;
+    gap:30px;
+}
+#big-images{
+    display:flex;
+    margin-left: 150px;;
+}
+#more-sales{
+    display: flex;
+    margin-left: 150px;
+    gap:10px;
+}
+#key{
+    display: flex;
+    margin-left: 150px;
+    gap:10px;
+    margin-top: 50px;
+}
